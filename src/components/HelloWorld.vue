@@ -18,8 +18,8 @@ export default {
   data () {
     return {
       msg: 'TESTING TESTING MASSIVE TESTING',
-      num 1: 42,
-      num 2: 78,
+      num1:42,
+      num2:78,
       product: null
     }
   },
